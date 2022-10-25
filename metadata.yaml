@@ -1,11 +1,16 @@
 _repo: The-Essenes-Their-history-and-doctrines_69170
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69170-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Ginsburg, Christian David
     gutenberg_agent_id: '55140'
     url: http://www.gutenberg.org/2009/agents/55140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69170#The-Essenes-Their-history-and-doctrines
 gutenberg_issued: '2022-10-16'
 identifiers:
   gutenberg: '69170'
